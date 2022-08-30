@@ -1,0 +1,44 @@
+tasks in devops 
+
+colour evvali approve ki 
+
+today 11-01-2022 workflows ki 2 hours add cheyali 
+
+12- august-2022 ,testing wf , dynamic , action doc 
+
+Slays>arced28
+
+CONCATENATE("SI_",ID)
+
+
+CSS , dYNAMIC THINGS SOME modifications 
+ "Title": "<a href =\"@{item()?['{Link}']}\">\n@{item()?['Title']}</a>",
+           <a href=\"@{item()?['{Link}']} \">\n@{item()?['Title']}
+
+
+aug 11 - created workflows in dev (capy from all pocs)
+aug 12 - tesing worflows , dynamic emails , updated sharepoint list fields 
+aug 13 - working along with deva for safety interaction power apps , 
+creating safety interaction  doc ( similar to action flow ) 
+
+"Participant Name : " & ThisItem.'Participant Name '.DisplayName
+
+
+type participant
+inka first record 
+next categories 
+
+If(Not(IsBlank(Office365Users.UserProfile(DataCardValue48.Selected.Email).Department)),
+Office365Users.UserProfile(DataCardValue48.Selected.Email).Department,Parent.Default)
+
+
+client questions 
+
+teams
+
+other add 
+
+
+
+
+and the moment you create safety interaction (parent) you have to load the participant name with requestor
